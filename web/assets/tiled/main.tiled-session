@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "b_001.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "b_001.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 870,
+                "y": 787
+            }
+        },
+        "move_01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "冰雪.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/xindong/Documents/Code/rust/gm-tk/tiled/tsx",
+    "last.imagePath": "C:/Users/xindong/Documents/Code/rust/bevy_mk/assets/textures",
+    "last.worldFilePath": "C:/Users/xindong/Documents/Code/rust/gm-tk/tiled/worlds",
+    "lastUsedTilesetExportFilter": "JSON 地形文件 (*.json)",
+    "loadedWorlds": [
+        "C:/Users/xindong/Documents/Code/rust/gm-tk/tiled/worlds/init-01.world",
+        "C:/Users/xindong/Documents/Code/rust/gm-tk/tiled/worlds/init-02.world"
+    ],
+    "map.lastUsedExportFilter": "JSON 地图文件 (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "b_001.tmx"
+    ],
+    "project": "main.tiled-project",
+    "property.type": "file",
+    "recentFiles": [
+        "b_001.tmx",
+        "move_01.tsx",
+        "冰雪.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
